@@ -1,7 +1,7 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
-import com.lemon.api.auto.pojo.Variable;
-import com.lemon.api.auto.pojo.WriteBackData;
+import com.api.auto.pojo.Variable;
+import com.api.auto.pojo.WriteBackData;
 
 import java.lang.reflect.Method;
 import java.util.*;

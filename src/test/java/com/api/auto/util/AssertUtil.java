@@ -1,4 +1,4 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
 import org.testng.Assert;
 

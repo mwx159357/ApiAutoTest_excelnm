@@ -1,4 +1,5 @@
-package com.lemon.api.auto.cases;
+package com.api.auto.cases;
+import com.api.auto.util.CaseUtil;
 import com.lemon.api.auto.util.*;
 
 import org.testng.annotations.DataProvider;

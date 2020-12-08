@@ -1,4 +1,4 @@
-package com.lemon.api.auto.pojo;
+package com.api.auto.pojo;
 
 public class DBChecker {
 

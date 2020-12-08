@@ -1,4 +1,4 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 import org.apache.http.Header;
 import org.apache.http.HttpRequest;
 import org.apache.http.HttpResponse;

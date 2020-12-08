@@ -1,4 +1,4 @@
-package com.lemon.api.auto.cases;
+package com.api.auto.cases;
 
 public class SpecialProp {
     private  String uid;

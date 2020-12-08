@@ -1,6 +1,6 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
-import com.lemon.api.auto.pojo.Case;
+import com.api.auto.pojo.Case;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,8 +1,8 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
 import com.alibaba.fastjson.JSONObject;
-import com.lemon.api.auto.pojo.DBChecker;
-import com.lemon.api.auto.pojo.DBQueryResult;
+import com.api.auto.pojo.DBChecker;
+import com.api.auto.pojo.DBQueryResult;
 
 import java.util.ArrayList;
 import java.util.List;

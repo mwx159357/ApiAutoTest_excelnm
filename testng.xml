@@ -6,7 +6,7 @@
         <!--  测试类  -->
         <classes>
             <!-- 单个测试类 -->
-            <class name="com.lemon.api.auto.cases.SpecialPropCase_v3"></class>
+            <class name="SpecialPropCase_v3"></class>
         </classes>
     </test>
 </suite>

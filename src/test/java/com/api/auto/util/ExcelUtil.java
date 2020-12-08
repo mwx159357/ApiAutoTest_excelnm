@@ -1,10 +1,6 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
-import com.lemon.api.auto.pojo.Case;
-import com.lemon.api.auto.pojo.Rest;
-import com.lemon.api.auto.pojo.Variable;
-import com.lemon.api.auto.pojo.WriteBackData;
-import org.apache.poi.ss.formula.functions.T;
+import com.api.auto.pojo.WriteBackData;
 import org.apache.poi.ss.usermodel.*;
 import java.io.*;
 import java.lang.reflect.Method;

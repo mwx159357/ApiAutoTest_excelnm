@@ -1,4 +1,4 @@
-package com.lemon.api.auto.util;
+package com.api.auto.util;
 
 import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
 

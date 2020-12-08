@@ -1,6 +1,6 @@
-package com.lemon.api.auto.variable;
+package com.api.auto.variable;
 
-import com.lemon.api.auto.util.JDBCUtil;
+import com.api.auto.util.JDBCUtil;
 
 import java.util.Map;
 
