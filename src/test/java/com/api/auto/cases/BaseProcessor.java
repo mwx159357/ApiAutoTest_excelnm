@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSONObject;
 import com.api.auto.pojo.WriteBackData;
 import com.api.auto.util.*;
 import com.api.auto.util.DBCheckUtil;
-import com.lemon.api.auto.util.*;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.Test;
 
