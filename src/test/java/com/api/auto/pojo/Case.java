@@ -1,7 +1,6 @@
 package com.api.auto.pojo;
 
 public class Case {
-
     private  String CaseId;
     private String apiId;
     private String desc;
